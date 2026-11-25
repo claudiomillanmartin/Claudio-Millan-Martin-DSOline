@@ -2,9 +2,12 @@
 
 Este registro no cuenta para la nota. Sirve para ver dónde vais solos y dónde os apoyáis. Si no habéis usado IA en una parte, dejad el nivel en 0: también es un dato útil.
 
-**Grupo:** (nombres)
+**Grupo:** Claudio, Jean - Marc, Gabriel
 
-**Herramientas usadas:** (ChatGPT, Claude, Gemini, Copilot, autocompletado de VS Code... o ninguna)
+**Herramientas usadas:**
+ChatGPT - Gabriel 
+Claude - Gabriel y Claudio
+Gemini - Gabriel
 
 > El repositorio es público: no pongáis datos personales ni contraseñas en los prompts que copiéis aquí.
 
@@ -14,11 +17,11 @@ Niveles: **0** sin IA · **1** consulta puntual, el código es nuestro · **2** 
 
 | Módulo | Quién lo ha llevado | Nivel de IA (0-3) | Nº de prompts | ¿Lo podríais repetir sin IA? (sí / en parte / no) |
 |---|---|---|---|---|
-| `variables.py` | | | | |
-| `clases.py` | | | | |
-| `funciones.py` | | | | |
-| `main.py` | | | | |
-| `README.md` | | | | |
+| `variables.py` | Claudio | 1 | 1 | sí |
+| `clases.py` | Gabriel | 1.5 | | en parte |
+| `funciones.py` | Jean - Marc | 1.5 | - | sí |
+| `main.py`  | Jean - Marc | 1 | - | sí |
+| `README.md` | Claudio | | | |
 
 ## Registro de prompts
 
